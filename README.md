@@ -1,4 +1,4 @@
-# Balance - A Laravel finance app for everyday use.
+# My Khatabook - My daily expense tracker.
 
 
 ## Installation
