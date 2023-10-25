@@ -1,0 +1,16 @@
+{
+    "short_name": "Balance",
+    "name": "Balance",
+    "description": "organize your finance",
+    "icons": [
+      {
+        "src": "/storage/icons/balance-logo.png",
+        "type": "image/png",
+        "sizes": "300x65"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#74EDF6",
+    "display": "fullscreen",
+    "theme_color":"#209cee"
+  }

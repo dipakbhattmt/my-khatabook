@@ -1,0 +1,48 @@
+@import "../../node_modules/buefy/dist/buefy.min.css";
+
+html {
+    overflow-x: hidden;
+}
+
+body {
+    height: 100vh;
+}
+
+.rtl-navbar {
+    margin-inline-start: auto;
+    margin-inline-end: 0;
+}
+
+.p-0 {
+    padding: 0;
+}
+
+.mt-0-mb-half {
+    margin: 0 0 0.5rem 0;
+}
+
+.m-0 {
+    margin: 0;
+}
+
+.m-half {
+    margin: 0.5rem;
+}
+
+.m-1 {
+    margin: 1rem;
+}
+
+.box {
+    border-radius: 0;
+}
+
+.is-child {
+    box-shadow: 0 0 1px 1px #0e8bc1;
+    background-color: rgba(242, 242, 242, 0.67);
+}
+
+.months-bar-section {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
